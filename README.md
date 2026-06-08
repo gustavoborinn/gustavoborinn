@@ -130,6 +130,16 @@ Instrutor de informática para crianças de 10 a 12 anos, com foco em comunicaç
 
 ---
 
+## Contribuições
+
+<p align="center">
+  <a href="https://github.com/gustavoborinn">
+    <img src="https://ghchart.rshah.org/39d353/gustavoborinn" alt="Quadro de contribuições de Gustavo Borin no GitHub">
+  </a>
+</p>
+
+---
+
 <p align="center">
   <strong>Aberto a oportunidades de estágio ou desenvolvimento júnior.</strong><br>
   Backend, integrações, dados, produto e sistemas que precisam funcionar no mundo real.
