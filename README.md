@@ -77,37 +77,12 @@ Minha direção atual é evoluir como desenvolvedor backend, aprofundar fundamen
 
 ## Projetos em destaque
 
-### 01. Pipeline distribuído de processamento de vídeo
-
-`Java` `Spring Boot` `RabbitMQ` `PostgreSQL` `MinIO` `Docker` `FFmpeg` `Whisper`
-
-Pipeline acadêmico para processar vídeos de forma assíncrona. Um upload dispara tarefas paralelas de transcodificação, extração de áudio e geração de legendas.
-
-**O que esse projeto mostra:** backend, mensageria, microsserviços, workers independentes, persistência de status e integração entre serviços.
-
-### 02. Extensão offline-first para SketchUp
-
-`Ruby` `SketchUp Ruby API` `HTML` `CSS` `JavaScript` `Node.js` `Minitest`
-
-Extensão comercial estruturada como MVP distribuível em `.rbz`, com interface embarcada, módulos internos e scripts de empacotamento.
-
-**O que esse projeto mostra:** automação de fluxo técnico, arquitetura modular, distribuição de extensão e cuidado com validação de build.
-
-### 03. Aplicação mobile multi-módulo
-
-`React Native` `Expo` `Firebase` `Firestore` `Cloud Functions` `FCM` `Zustand` `React Query`
-
-Projeto autoral com sete verticais funcionais integradas na mesma base de código, envolvendo autenticação, autorização, regras de acesso e feature flags.
-
-**O que esse projeto mostra:** organização de produto, modularização, controle de acesso, estado global e integração com serviços Firebase.
-
-### 04. Prescribe Guard
-
-`JavaScript` `SQLite WASM` `D3.js` `Web Workers` `Python`
-
-Projeto para análise de interações medicamentosas com foco em processamento local, responsividade e visualização interativa de dados.
-
-**O que esse projeto mostra:** tecnologia aplicada à saúde, processamento no navegador, visualização de dados e preocupação com experiência de uso.
+| Projeto | Foco | Stack |
+| --- | --- | --- |
+| [**ZKP Range Proofs com Noir**](https://github.com/gustavoborinn/tcc-zkp-range-proofs-noir) | Privacidade, smart contracts EVM e trade-offs de custo computacional. | `Noir` `EVM` `ZKP` |
+| [**Chain Lens**](https://github.com/gustavoborinn/summer-of-bitcoin-2026-challenge-1-chain-lens) | Desafio Summer of Bitcoin conectado ao interesse por blockchain e sistemas. | `Rust` `Bitcoin` |
+| [**Vacancy Management**](https://github.com/gustavoborinn/vacancy-management) | Backend para gestão de vagas, praticando API e organização de camadas. | `Java` `Spring Boot` |
+| [**Multithreaded Vehicle Server**](https://github.com/gustavoborinn/multithreaded-vehicle-server) | Servidor com sockets, concorrência e testes de desempenho. | `Java` `Sockets` `JSON` |
 
 ---
 
@@ -167,13 +142,6 @@ Não tento parecer mais avançado do que sou. Prefiro mostrar evolução real, p
   <img alt="Web3" src="https://img.shields.io/badge/web3-0d1117?style=flat-square">
   <img alt="Análise técnica" src="https://img.shields.io/badge/analise_tecnica-0d1117?style=flat-square">
   <img alt="Tecnologia aplicada" src="https://img.shields.io/badge/tecnologia_aplicada-0d1117?style=flat-square">
-</p>
-
----
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gustavoborinn&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats de Gustavo Borin">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoborinn&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas no GitHub de Gustavo Borin">
 </p>
 
 ---
