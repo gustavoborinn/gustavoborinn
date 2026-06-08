@@ -113,7 +113,7 @@ Projeto voltado à análise de interações medicamentosas com foco em funcionam
 
 ## Outras experiências
 
-- **PET-TECHSUS / UNIFAL-MG:** bolsista em projeto relacionado ao uso de tecnologia aplicada ao contexto de saúde pública.
+- **PET-TECHSUS / UNIFAL-MG:** bolsista em projeto relacionado ao uso de tecnologia e inteligência artificial no contexto de saúde pública.
 - **Projeto open source Fluveny:** co-desenvolvedor em uma plataforma open source, participando de discussões de requisitos, arquitetura e implementação.
 - **Projeto de extensão UNIFAL-MG:** instrutor de informática para crianças de 10 a 12 anos durante quatro meses.
 
