@@ -99,22 +99,6 @@ Instrutor de informática para crianças de 10 a 12 anos, com foco em comunicaç
 
 ---
 
-## Como eu penso software
-
-```txt
-problema real
-  -> domínio e requisitos
-  -> modelagem simples
-  -> API clara
-  -> dados consistentes
-  -> integração confiável
-  -> evolução incremental
-```
-
-Não tento parecer mais avançado do que sou. Prefiro mostrar evolução real, projetos que exigiram pesquisa, erros corrigidos, decisões técnicas e vontade de entender o sistema por trás da interface.
-
----
-
 ## Formação e estudos
 
 **Formação**
